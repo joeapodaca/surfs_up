@@ -8,4 +8,4 @@ Looking to open surf and ice cream shop business in Oahu. Performing analysis to
 - The standard deviation is only .5 degrees from June to December.
 
 # Summary
-Although June has a higher max temperature and December has the lower min temperature the number of days for each is very small.  The average temperature is actually very similar for the 2 months. The temperature 
+Although June has a higher max temperature and December has the lower min temperature the number of days for each is very small.  The average temperature is actually very similar for the 2 months. The temperature in December shows that the surf and ice cream shop business is sustainable year-round.
